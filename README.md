@@ -2,7 +2,7 @@
 
 A high-performance certification exam preparation portal built with **Flutter Web**, **Firebase**, and **Riverpod**.
 
-🚀 **Live Portal:** [https://pmtutor.dipotepede.org](https://pmtutor-quiz-project.web.app/)
+**Live Portal:** [https://pmtutor.dipotepede.org](https://pmtutor-quiz-project.web.app/)
 
 ## Features
 * **Multi-Cert Support:** PMP, PgMP, PMI-PBA, CBAP, PMI-ACP, ICGB, and ICBB.
